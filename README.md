@@ -52,7 +52,8 @@ calling using CommandLineRunner
 	
 Notes:
 --------
-	In RabbitMQ client cant send message direct to Queue(Topic not exist)..client can send message to exchange and exchange 	have binding to queue (one to one and one to many or many to one relations)
+In RabbitMQ client cant send message direct to Queue(Topic not exist)..client can send message to exchange and exchange have binding to queue <br>
+(one to one and one to many or many to one relations)
 
 	
 	
