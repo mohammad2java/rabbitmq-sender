@@ -57,3 +57,9 @@ In RabbitMQ client cant send message direct to Queue(Topic not exist)..client ca
 
 	
 	
+Architecture of RabbitMQ
+--------------------------
+
+<img src="md/rabbit-architecture.jpg"/>
+	
+	
